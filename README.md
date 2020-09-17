@@ -1,5 +1,4 @@
 # modelling-voting-with-chaos-theory
-My model to simulate how a group of people will vote in an election based on Chaos Theory
 
 # Description of the model
 This project was inspired by Self-Organisation -- a subclass of Chaos Theory. Self-organisation is a process where some form of overall order arises from local interactions between parts of an initially disordered system. This is because the system will have certain semi-stable states which differ depending on the initial state of the system. The main components of a simple self-organisation model are the fluctuations of a single item in the system and the overall consensus of the system, ie. there is a competition between micro and macro behaviour. For example, how birds form flocks is a classic example of self-organisation: there is a balance between each bird flying in its own random direction and also seeing other birds and flying with them. The strength of each of these components will determine how well the system self-organises.
